@@ -1,4 +1,4 @@
-# Two-Stage Shadow Inclusion (2SSI)
+# Two-Stage Doubly Robust (2SDR)
 
 Source code for [Generalizing Causal Effects from Randomized Controlled Trials to Target Populations across Diverse Environments](https://openreview.net/pdf?id=bHCio4Pg7e).
 
