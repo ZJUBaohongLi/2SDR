@@ -1,0 +1,21 @@
+class Config:
+    experiment_num = 50
+    confounds_num = 5
+    obs_ratio = 10
+    sample_num = 20000
+    y_threshold = 0.001
+    s_threshold = 0.05
+    cit_threshold = 0.05
+    q_epochs = 100
+    q_lr = 0.003
+    q_batchsize = 900
+    u_epochs = 100
+    u_lr = 0.003
+    u_batchsize = 900
+    selection_epochs = 100
+    selection_lr = 0.003
+    selection_batchsize = 900
+    or_epochs = 100
+    or_lr = 0.003
+    or_batchsize = 900
+    setting = 1  # 1: Obs: X1, X2, X4, X5; Rct: X1, X3, X4, X5  # 2: Obs: X1, X3, X4, X5; Rct: X1, X2, X4, X5
